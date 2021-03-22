@@ -1,5 +1,3 @@
-// Gillian Evers
-// Lab Partner: Daniel Scholem
 #include<stdio.h>
 #include<stdlib.h>
 
